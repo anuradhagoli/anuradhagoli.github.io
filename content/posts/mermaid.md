@@ -67,7 +67,6 @@ classDiagram
 	} 
 ```
 
-
 ```mermaid
 classDiagram
 	class Animal{
@@ -95,7 +94,7 @@ timeline
     2006 : Twitter
 ```
 
-## Pie chart 
+## Pie chart
 
 ```mermaid
 pie title Pets adopted by volunteers

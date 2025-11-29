@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://anuradhagoli.github.io/'
 languageCode = 'en-us'
 title = 'Tech learnings'
 theme = "FixIt-main"
